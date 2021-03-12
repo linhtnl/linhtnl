@@ -1,6 +1,11 @@
 ## Hi , I'm Tô Ngọc Lam Linh 👋 
 
  I am undergraduate student at FPT University major in Software Engineer
+  
+ ## Find me elsewhere 🌎
+ * For contacting: lamlinh20001@gmail.com
+ * Social media : https://www.facebook.com/to.ngoclamlinh/
+ 
 <!--
 **linhtnl/linhtnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
