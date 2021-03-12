@@ -6,6 +6,8 @@
  * For contacting: lamlinh20001@gmail.com
  * Social media : https://www.facebook.com/to.ngoclamlinh/
  
+ 
+ <img src="https://camo.githubusercontent.com/b421247c49441b64bced08c7accb35ce90bc706a43c2c939ddb0f256c81536ba/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7469656e7472756f6e6732303030" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=linhtnl" style="max-width:100%;">
 <!--
 **linhtnl/linhtnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
