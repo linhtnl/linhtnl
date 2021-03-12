@@ -1,6 +1,6 @@
-###Hi , I'm Tô Ngọc Lam Linh 👋 
+### Hi , I'm Tô Ngọc Lam Linh 👋 
 
-#I am undergraduate student at FPT University major in Software Engineer
+# I am undergraduate student at FPT University major in Software Engineer
 <!--
 **linhtnl/linhtnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
