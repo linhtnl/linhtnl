@@ -2,6 +2,8 @@
 
  I am undergraduate student at FPT University major in Software Engineer
   
+  ## My CV :memo:
+  
  ## Find me elsewhere 🌎
  * For contacting: lamlinh20001@gmail.com
  * Social media : https://www.facebook.com/to.ngoclamlinh/ 
