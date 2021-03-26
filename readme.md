@@ -3,7 +3,7 @@
  I am undergraduate student at FPT University major in Software Engineer
   
   ## My CV :memo:
-  https://github.com/linhtnl/myCV/blob/main/To%20Ngoc%20lam%20linh.pdf 
+  https://github.com/linhtnl/myCV/blob/main/ToNgocLamLinh.pdf
  ## Find me elsewhere 🌎
  * For contacting: lamlinh20001@gmail.com
  * Social media : https://www.facebook.com/to.ngoclamlinh/ 
